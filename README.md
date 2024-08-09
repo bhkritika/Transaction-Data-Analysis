@@ -61,7 +61,7 @@ This project analyzes a dataset of financial transactions to uncover insights in
 ## Getting Started
 
 1. **Setup Environment:** Ensure you have a SQL environment set up (e.g., PostgreSQL, MySQL).
-2. **Create Database and Table:+** Run the provided SQL commands to create the database and table.
+2. **Create Database and Table:** Run the provided SQL commands to create the database and table.
 3. **Import Data:** Load the transaction data into the transactions table.
 4. **Run Queries:** Execute the SQL queries provided to perform the various analyses.
 5. **Analyze Results:** Review and interpret the results to draw insights from the data.
