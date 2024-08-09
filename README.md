@@ -29,7 +29,7 @@ This project analyzes a dataset of financial transactions to uncover insights in
         Amount DECIMAL(10, 2),
         Status VARCHAR(50)
     );
-
+```
 ## Analysis Queries
 
 ### Basic Analysis
